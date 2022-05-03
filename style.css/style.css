@@ -12,19 +12,21 @@ body{
 }
 .contenitore{
     background-color: #fff;
+    
 
 }
 header div{
     display: inline-block;
     vertical-align: middle;
     font-size: 25px;
+    margin: 5px90;
     
 }
 h1{
     margin-bottom: 5px;
 }
 #logo{
-    padding: 15px;
+    padding: 10px;
     width: 120%;
 }
 /* main */
@@ -44,11 +46,16 @@ section input{
     color: #d1d6d9 ;
 }
 .add{
-    margin-bottom: 10%;
+    margin-bottom: 3%;
 }
-.line{
-    background-color: #d1d6d9;
-    width: 60%;
+
+hr {
+	border-color: #f6f8f9;
+	border-style: solid;
+	border-width: 3px 0 0;
+	clear: both;
+	margin: 0 0 20px;
+	height: 60%;
 }
 #task{
     background-color: #47adf1;
