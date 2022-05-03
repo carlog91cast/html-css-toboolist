@@ -33,7 +33,7 @@ h1{
     background-color: #fff;
     border-radius: 5px;
     padding: 20px 80px;
-    width: 50%;
+    width: 60%;
     margin-top: 35px;
   }
 section input{
@@ -43,6 +43,9 @@ section input{
     border-color: #d1d6d9;
     color: #d1d6d9 ;
 }
+.add{
+    margin-bottom: 10%;
+}
 #task{
     background-color: #47adf1;
     padding: 7px;
@@ -51,8 +54,25 @@ section input{
     color: #fff;
   }
 
-hr{
-    margin: 2%;
+.editorial{
+    background-color: #47adf1;
+    padding: 7px;
+    border-radius: 15px;
+    border-color: #47adf1;
+    color: #fff;
 }
+p{
+    display: inline-block;
+}
+h2{
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+div{
+    margin: 25px 0;
+}
+
+
 
 
