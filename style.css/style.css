@@ -1,0 +1,30 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* titolo e logo */
+
+body{
+    background-color: #f6f8f9;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contenitore{
+    background-color: #fff;
+
+}
+header div{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 25px;
+    
+}
+h1{
+    margin-bottom: 5px;
+}
+#logo{
+    padding: 15px;
+    width: 120%;
+}
+
