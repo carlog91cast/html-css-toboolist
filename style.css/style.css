@@ -27,4 +27,32 @@ h1{
     padding: 15px;
     width: 120%;
 }
+/* main */
+
+.subscreen {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px 80px;
+    width: 50%;
+    margin-top: 35px;
+  }
+section input{
+    background-color: #fff;
+    padding: 7px;
+    border-radius: 5px;
+    border-color: #d1d6d9;
+    color: #d1d6d9 ;
+}
+#task{
+    background-color: #47adf1;
+    padding: 7px;
+    border-radius: 5px;
+    border-color: #47adf1;
+    color: #fff;
+  }
+
+hr{
+    margin: 2%;
+}
+
 
